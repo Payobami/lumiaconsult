@@ -1,0 +1,163 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="EN" lang="EN" dir="ltr">
+<head profile="http://gmpg.org/xfn/11">
+<title>..::LUMIA||Profile::..</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="imagetoolbar" content="no" />
+<link rel="stylesheet" href="styles/layout.css" type="text/css" />
+</head>
+<body id="top">
+<div class="wrapper row1">
+  <div id="header" class="clear">
+    <div class="fl_left" style="width:400px; height:100px;">
+      <div id="logo"><img src="images/lumia.png" alt="" width="90" height="91"  /></div>
+      <h1 style="float:; margin-top:0px; margin-right:-15px; background:none !important !important"><a href="index.html"><span style="font-size:25px; font-weight:700">Lumia Mayes</span> <br />
+        <p style="margin-left:150px; font-weight:700">And</p>
+        <span style="font-size:22px; background:#510000; color:#fff">Lumia Consult Ltd.</span></a></h1>
+      <p style="color:#000; margin-left:65px;margin-top:05px; clear:right; font-weight:600; font-style:italic">Building and Contruction Company Limited</p>
+    </div>
+    <div class="fl_right">
+      <p><a href="#">A - Z Index</a> | <a href="hse.htm">HSE</a> | <a href="Lumia - mayes construction company limited Latest Profile.pdf" target="new">Company Profile</a></p>
+      <form action="#" method="post" id="sitesearch">
+        <fieldset>
+          <legend>Site Search</legend>
+          <input type="text" value="Search Our Website&hellip;" onfocus="this.value=(this.value=='Search Our Website&hellip;')? '' : this.value ;" />
+          <input type="image" src="images/search.gif" id="search" alt="Search" />
+        </fieldset>
+      </form>
+    </div>
+    <div id="topnav" style="border-radius:0px">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="services.html">Our services</a></li>
+        <li><a href="experience.html">Our experiences</a></li>
+        
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="equipment.php">Plant and Equipment</a></li>
+        <li class="last"><a href="contact.php">Contact</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper row3">
+  <div id="container" class="clear">
+    <!-- ####################################################################################################### -->
+    <h1>C.E.O's Profile</h1>
+    <div id="respond">
+    <div id="column">
+      <div class="subnav">
+        <h2>Most Popular Links</h2>
+        <ul>
+          <li><a href="cooperate.php">Cooperate Tent</a></li>
+          <li><a href="about.html">About Us</a>
+            <ul>
+              <li><a href="#">Our Client</a></li>
+              <li><a href="service.html">Our Service</a></li>
+            </ul>
+          </li>
+          <li><a href="ostructure.php">Organization Structure</a>
+            <ul>
+              <li><a href="#"> Portfolio</a></li>
+              <li><a href="hse.htm">Policies on Safety</a>
+                <ul>
+                  <li><a href="organogram.php">Organogram</a></li>
+                  <li><a href="Lumia - mayes construction company limited Latest Profile.pdf">Downlaod Company Profile</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li><a href="keystaff.php">Key Staff</a></li>
+        </ul>
+      </div>
+    </div>
+    <img src="images/lumia/ceo1.jpg" height="250" width="250" alt="" style="float:left; margin:10px; margin-top:0" />
+   
+    <p style="width:620px; text-align:justify; margin-left:0px; color:#666; line-height:23px"><strong>AYEGBUSI OLUWASEUN,</strong> is a building consultant,external examiner, risk and safety manager, he studied building, he has (MSc) in housing development management, he has diploma in Quantity Surveying trained in famous civil and structural engineering firm (Fax consult), presently the CEO of Lumia consult ltd and Lumia-mayes construction company, Seun is a member of Nigeria Institute of Building, (MNIOB), member Council of Registered Builder of Nigeria (CORBON), Corperate Member Association of Building Engineers,Chartered Building Engineers C. BUILD.E, CABE), UK,Member Society of Professional Engineers,(P,Eng)uk, member Cooperate Institute of Risk and Safety Management (CIRSM), Member Association of cost Engineers (MAcost.E) ,Project Management Institute (PMI), USA and member Management Development Administration (MDA). Directors in many companies,he has attended seminars both home and abroad. 
+
+    <br />
+    MSc,MNIOB, CORBON, P.Eng, C.BUILD.E, CABE, MAcostE,CIRSM, PMI , MDA. .
+</p>
+
+<!--
+<p style="width:620px; line-height:23px; text-align:justify; color:#666">
+Seun Ayegbusi is a member of Nigeria Institute of Building (NIOB),member council of registered builder,CORBON. also a member of Institute of Development Administration of Nigeria,Member project management institute USA. He is married with children.
+</p>
+<p style="width:620px; line-height:23px; text-align:justify; color:#666">
+A talented, vibrant and intelligent young man, who has worked with many construction companies like Fax Consult as Project Engineers for years also with Fajex Nigeria Limited, Famous Crislod Ltd, Fakrem Nigeria Ltd and Mayessvisso Ltd all construction companies.
+</p>
+<p style="width:620px;line-height:23px; text-align:justify; color:#666">
+Also, he has attended seminars both home and abroad, he doesn’t compromise quality and standard work. Is an expert in Houising Industry.
+</p>
+    -->
+    </div>
+    
+<!-- ####################################################################################################### -->
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper row4">
+  <div id="footer" class="clear">
+    <!-- ####################################################################################################### -->
+    <div class="footbox">
+      <h2>Quick Links</h2>
+      <ul>
+        <li><a href="index.html">&raquo; Homepage</a></li>
+        <li><a href="contact.php">&raquo; Contact Us</a></li>
+        <li><a href="#">&raquo; Sitemap</a></li>
+        <li><a href="#">&raquo; Privacy Policy</a></li>
+        <li><a href="#">&raquo; Terms of Use</a></li>
+        <li><a href="#">&raquo; Copyright Information</a></li>
+        <li><a href="#">&raquo; Website Matters</a></li>
+      </ul>
+    </div>
+    <div class="footbox" style="width:280px">
+      <h2>How To Find Us</h2>
+      <address>
+      Suite 38, Harmonic Plaza,Mike Aighbe,Off Obafemi Awolowo way, Jabi, Abuja.<br />
+      Suite 4, Al-Barakan Plaza, Favous Bodija Ibadan
+      <br />
+      6, Amore Off Toyin Street, Ikeja Lagos.
+      </address>
+      <address>
+      
+           Tel: 08037136696
+      <br style="margin-bottom:5px !important"/>
+      Tel: 08072397483<br />
+      Email: <a href="#">mayes777@yahoo.com</a>
+      </address>
+    </div>
+    <div class="fl_right">
+      <div id="social">
+        <h2>Connect With Us</h2>
+        <ul>
+          <li><a href="#"><img src="images/social/facebook.gif" alt="" /></a></li>
+          <li><a href="#"><img src="images/social/twitter.gif" alt="" /></a></li>
+          <li><a href="#"><img src="images/social/flickr.gif" alt="" /></a></li>
+          <li><a href="#"><img src="images/social/youtube.gif" alt="" /></a></li>
+          <li class="last"><a href="#"><img src="images/social/rss.gif" alt="" /></a></li>
+        </ul>
+      </div>
+      <div id="newsletter" class="clear">
+        <form action="#" method="post">
+          <fieldset>
+            <legend>Subscribe To Our Newsletter:</legend>
+            <input type="text" value="Enter Email Here&hellip;" onfocus="this.value=(this.value=='Enter Email Here&hellip;')? '' : this.value ;" />
+            <input type="text" id="subscribe" value="Submit" />
+          </fieldset>
+        </form>
+      </div>
+    </div>
+    <!-- ####################################################################################################### -->
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper">
+  <div id="copyright" class="clear">
+    <p class="fl_left">Copyright &copy; 2013 - All Rights Reserved - <a href="#">Domain Name</a></p>
+    <p class="fl_right">Template by <a href="#" title="Free Website Templates">Beyad Technology</a></p>
+  </div>
+</div>
+</body>
+</html>
