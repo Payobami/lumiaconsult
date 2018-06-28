@@ -1,7 +1,311 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3c15570-5940-4a97-805a-492fdb684d3e" name="Default" comment="" />
+    <list default="true" id="c3c15570-5940-4a97-805a-492fdb684d3e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/lumia.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lumia.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-columns_clip_image002.gif" beforeDir="false" afterPath="$PROJECT_DIR$/3-columns_clip_image002.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-columns_clip_image002_0000.gif" beforeDir="false" afterPath="$PROJECT_DIR$/3-columns_clip_image002_0000.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-columns_clip_image002_0001.gif" beforeDir="false" afterPath="$PROJECT_DIR$/3-columns_clip_image002_0001.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lumia - mayes construction company limited Latest Profile.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Lumia - mayes construction company limited Latest Profile.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/css/1140.css" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/css/1140.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/css/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/css/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/css/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/css/jquery-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/css/jquery.idealforms.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/css/jquery.idealforms.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/images/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/images/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/images/demo/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/images/demo/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/images/demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/images/demo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/images/demo/slider/1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/images/demo/slider/1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/images/demo/slider/2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/images/demo/slider/2.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/images/demo/slider/3.gif" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/images/demo/slider/3.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/images/demo/slider/4.gif" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/images/demo/slider/4.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/images/demo/slider/5.gif" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/images/demo/slider/5.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/images/demo/slider/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/images/demo/slider/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/images/featured_slide_left.png" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/images/featured_slide_left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/images/featured_slide_left1.png" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/images/featured_slide_left1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/images/featured_slide_right .png" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/images/featured_slide_right .png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/images/featured_slide_right.png" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/images/featured_slide_right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/images/featured_slide_trans - Copy.png" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/images/featured_slide_trans - Copy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/images/featured_slide_trans.png" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/images/featured_slide_trans.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/images/form_input_long - Copy.gif" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/images/form_input_long - Copy.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/images/form_input_long.gif" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/images/form_input_long.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/images/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/images/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/images/round_bot - Copy.gif" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/images/round_bot - Copy.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/images/round_bot.gif" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/images/round_bot.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/images/round_top - Copy.gif" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/images/round_top - Copy.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/images/round_top.gif" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/images/round_top.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/scripts/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/scripts/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/scripts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/scripts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/styles/3_column.css" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/styles/3_column.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/styles/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/styles/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/styles/basic.css" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/styles/basic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/styles/basic_ie.css" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/styles/basic_ie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/styles/busary.css" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/styles/busary.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/styles/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/styles/contact.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/styles/featured_slide.css" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/styles/featured_slide.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/styles/forms.css" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/styles/forms.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/styles/gallery.css" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/styles/gallery.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/styles/homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/styles/homepage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/styles/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/styles/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/styles/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/styles/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/styles/navi.css" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/styles/navi.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/styles/portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/styles/portfolio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/styles/prettyPhoto.css" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/styles/prettyPhoto.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/styles/style-ie.css" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/styles/style-ie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/styles/tables.css" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/styles/tables.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ceo.html" beforeDir="false" afterPath="$PROJECT_DIR$/ceo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ceo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conn.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cooperate.html" beforeDir="false" afterPath="$PROJECT_DIR$/cooperate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cooperate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cooperate_clip_image002.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cooperate_clip_image002.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cooperate_clip_image004.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cooperate_clip_image004.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/equipment.html" beforeDir="false" afterPath="$PROJECT_DIR$/equipment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/equipment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experience.html" beforeDir="false" afterPath="$PROJECT_DIR$/experience.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery2.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hse.htm" beforeDir="false" afterPath="$PROJECT_DIR$/hse.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/20150112_103933.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/20150112_103933.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/20150224_113815.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/20150224_113815.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/20150705_073500.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/20150705_073500.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Geotechni_amzor.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Geotechni_amzor.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/HighwayConstructionKit_d.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/HighwayConstructionKit_d.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/IMG-20150326-WA0005.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/IMG-20150326-WA0005.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/IMG-20150730-WA0010.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/IMG-20150730-WA0010.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/IMG00237-20100904-1302.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/IMG00237-20100904-1302.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/IMG00238-20100904-1303.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/IMG00238-20100904-1303.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/IMG00239-20100904-1303.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/IMG00239-20100904-1303.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Unipole_lagos80.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Unipole_lagos80.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ac.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/ac.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ac.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/ac.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ac1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/ac1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ad.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/ad.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/archi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/archi.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bim-diagram[0].jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bim-diagram[0].jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/black_file.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/black_file.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/brown_file.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/brown_file.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/demo/100x70.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/demo/100x70.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/demo/130x100.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/demo/130x100.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/demo/130x130.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/demo/130x130.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/demo/190x90.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/demo/190x90.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/demo/200x80.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/demo/200x80.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/demo/240x90.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/demo/240x90.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/demo/300x120.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/demo/300x120.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/demo/440x215.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/demo/440x215.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/demo/450x320.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/demo/450x320.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/demo/450x380.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/demo/450x380.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/demo/60x60.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/demo/60x60.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/demo/80x80.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/demo/80x80.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/demo/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/demo/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/demo/avatar.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/demo/avatar.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/demo/imgl.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/demo/imgl.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/demo/imgr.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/demo/imgr.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/images/demo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/demo/video.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/demo/video.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/footer_bg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/footer_bg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/form_input_long.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/form_input_long.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galleryviewthemes/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/galleryviewthemes/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galleryviewthemes/dark/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/galleryviewthemes/dark/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galleryviewthemes/dark/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/images/galleryviewthemes/dark/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galleryviewthemes/dark/next.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/galleryviewthemes/dark/next.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galleryviewthemes/dark/panel-nav-next.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/galleryviewthemes/dark/panel-nav-next.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galleryviewthemes/dark/panel-nav-prev.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/galleryviewthemes/dark/panel-nav-prev.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galleryviewthemes/dark/prev.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/galleryviewthemes/dark/prev.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galleryviewthemes/light/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/galleryviewthemes/light/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galleryviewthemes/light/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/images/galleryviewthemes/light/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galleryviewthemes/light/next.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/galleryviewthemes/light/next.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galleryviewthemes/light/panel-nav-next.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/galleryviewthemes/light/panel-nav-next.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galleryviewthemes/light/panel-nav-prev.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/galleryviewthemes/light/panel-nav-prev.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galleryviewthemes/light/prev.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/galleryviewthemes/light/prev.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galleryviewthemes/loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/galleryviewthemes/loader.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/good2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/good2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/good2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/good2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/house.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/house.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/house1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/house1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/120310-F-ZC884-166.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/120310-F-ZC884-166.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/3bedroom_flat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/3bedroom_flat.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/3bedroom_flat2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/3bedroom_flat2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/450x295_q75.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/450x295_q75.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/87455303.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/87455303.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/Akungba – Oka Road.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/Akungba – Oka Road.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/Construction of Twin Duplex in ikorodu.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/Construction of Twin Duplex in ikorodu.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/Geotechni_amzor.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/Geotechni_amzor.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/NOUN.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/NOUN.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/T1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/T1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/T2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/T2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/T2_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/T2_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/UBE_bakasi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/UBE_bakasi.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/Unipole_Ibadan.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/Unipole_Ibadan.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/Unipole_awolowo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/Unipole_awolowo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/Unipole_lagos.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/Unipole_lagos.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/Unipole_ondo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/Unipole_ondo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/about1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/about1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/aboutus.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/aboutus.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/agungba_oka.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/agungba_oka.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/agungba_oka2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/agungba_oka2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/agungba_oka_road.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/agungba_oka_road.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/akugba_oka.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/akugba_oka.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/akungba_oka.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/akungba_oka.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/bulletin_lekki-epe.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/bulletin_lekki-epe.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/bungalow.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/bungalow.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/ceo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/ceo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/ceo1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/ceo1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/church_akobo..jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/church_akobo..jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/con_school_at_akobo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/con_school_at_akobo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/construction_church.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/construction_church.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/duplex1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/duplex1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/firstbank.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/firstbank.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/guesthos_adamawa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/guesthos_adamawa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/h.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/h.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/injterior.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/injterior.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/intercontinental.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/intercontinental.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/intercontinental2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/intercontinental2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/intercontinental_front.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/intercontinental_front.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/intercontinental_uncon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/intercontinental_uncon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/intercontinental_undercont.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/intercontinental_undercont.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/intercontinental_undercont2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/intercontinental_undercont2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/library.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/library.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/lindrick-building-services.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/lindrick-building-services.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/mast1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/mast1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/mayobelwa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/mayobelwa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/moro_mast.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/moro_mast.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/nugalow@ota1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/nugalow@ota1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/nugalow@ota2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/nugalow@ota2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/on-site-ds.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/on-site-ds.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/opella.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/opella.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/ostru.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/ostru.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/ous.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/ous.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/ous02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/ous02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/ous2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/ous2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/owt.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/owt.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/project.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/project.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/rccg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/rccg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/rccg2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/rccg2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/residential1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/residential1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/residential2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/residential2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/residential3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/residential3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/school1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/school1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/school2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/school2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/tanterlizer.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/tanterlizer.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/twinduplex.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/twinduplex.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/twinduplex2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/twinduplex2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/undercon1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/undercon1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/undercon2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/undercon2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/unipole_base.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/unipole_base.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/unipole_foundation.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/unipole_foundation.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/unipole_foundation2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/unipole_foundation2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/wemabank_kano.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/wemabank_kano.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lumia/wemabank_kano2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lumia/wemabank_kano2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/moro_mast.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/moro_mast.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/organisation-structure.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/organisation-structure.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/organogram.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/organogram.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/btnNext.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/btnNext.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/btnPrevious.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/btnPrevious.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/contentPattern.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/contentPattern.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/default_thumbnail.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/default_thumbnail.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/loader.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/sprite.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/sprite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/dark_square/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_square/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/dark_square/btnNext.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_square/btnNext.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/dark_square/btnPrevious.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_square/btnPrevious.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/dark_square/contentPattern.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_square/contentPattern.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/dark_square/default_thumbnail.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_square/default_thumbnail.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/dark_square/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_square/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/dark_square/loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_square/loader.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/dark_square/sprite.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_square/sprite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/facebook/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/facebook/btnNext.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/btnNext.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/facebook/btnPrevious.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/btnPrevious.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/facebook/contentPatternBottom.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/contentPatternBottom.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/facebook/contentPatternLeft.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/contentPatternLeft.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/facebook/contentPatternRight.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/contentPatternRight.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/facebook/contentPatternTop.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/contentPatternTop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/facebook/default_thumbnail.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/default_thumbnail.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/facebook/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/facebook/loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/loader.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/facebook/sprite.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/sprite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/btnNext.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/btnNext.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/btnPrevious.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/btnPrevious.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/default_thumbnail.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/default_thumbnail.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/loader.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/sprite.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/sprite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/light_square/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_square/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/light_square/btnNext.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_square/btnNext.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/light_square/btnPrevious.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_square/btnPrevious.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/light_square/default_thumbnail.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_square/default_thumbnail.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/light_square/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_square/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/light_square/loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_square/loader.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prettyPhoto/light_square/sprite.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_square/sprite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/schoolatife.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/schoolatife.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/search.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/search.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/shadow.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/shadow.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/social/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/social/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/social/facebook.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/social/facebook.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/social/flickr.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/social/flickr.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/social/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/images/social/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/social/rss.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/social/rss.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/social/twitter.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/social/twitter.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/social/youtube.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/social/youtube.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keystaff.html" beforeDir="false" afterPath="$PROJECT_DIR$/keystaff.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keystaff.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/licence.txt" beforeDir="false" afterPath="$PROJECT_DIR$/licence.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ostructure.html" beforeDir="false" afterPath="$PROJECT_DIR$/ostructure.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ostructure.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectDM.html" beforeDir="false" afterPath="$PROJECT_DIR$/projectDM.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectDM.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectm.html" beforeDir="false" afterPath="$PROJECT_DIR$/projectm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectm_clip_image002.gif" beforeDir="false" afterPath="$PROJECT_DIR$/projectm_clip_image002.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/jquery-1.4.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/jquery-1.4.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/jquery-prettyPhoto.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/jquery-prettyPhoto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/jquery-ui-1.8.12.custom.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/jquery-ui-1.8.12.custom.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/jquery.easing.1.3.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/jquery.easing.1.3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/jquery.galleryview.2.1.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/jquery.galleryview.2.1.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/jquery.galleryview.setup.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/jquery.galleryview.setup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/jquery.timers.1.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/jquery.timers.1.2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/3_column.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/3_column.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/styles/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/featured_slide.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/featured_slide.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/forms.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/forms.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/gallery.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/gallery.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/homepage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/navi.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/navi.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/portfolio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/prettyPhoto.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/prettyPhoto.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/tables.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/tables.css" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,25 +316,84 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ceo.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ceo.php">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ceo2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ceo2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="106" column="32" lean-forward="false" selection-start-line="106" selection-start-column="29" selection-end-line="106" selection-end-column="32" />
-              <folding />
+            <state relative-caret-position="525">
+              <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/contact.php">
+      <file leaf-file-name="conn2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conn2.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="270">
+              <caret line="68" column="6" selection-start-line="68" selection-start-column="6" selection-end-line="77" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="498">
+              <caret line="99" column="13" selection-start-line="99" selection-start-column="13" selection-end-line="99" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cooperate.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cooperate.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cooperate2.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cooperate2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="449">
+              <caret line="77" column="37" selection-start-line="77" selection-start-column="37" selection-end-line="77" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="469">
+              <caret line="99" column="13" selection-start-line="99" selection-start-column="13" selection-end-line="99" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="514">
+              <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ceo.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ceo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -39,11 +402,28 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>href</find>
+      <find>href=&quot;#&quot;</find>
       <find>php</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ceo.php" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/ceo.html" />
+        <option value="$PROJECT_DIR$/ceo2.html" />
+        <option value="$PROJECT_DIR$/contact2.html" />
+        <option value="$PROJECT_DIR$/cooperate.html" />
+        <option value="$PROJECT_DIR$/cooperate2.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -51,7 +431,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -59,35 +442,21 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lumia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lumia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="lumia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lumia" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -108,69 +477,137 @@
       </list>
     </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c3c15570-5940-4a97-805a-492fdb684d3e" name="Default" comment="" />
-      <created>1520390355272</created>
+      <created>1530169962916</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1520390355272</updated>
-      <workItem from="1520390357772" duration="769000" />
+      <updated>1530169962916</updated>
+      <workItem from="1530169964507" duration="2019000" />
+      <workItem from="1530172314336" duration="593000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="769000" />
+    <option name="totallyTimeSpent" value="2918000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24320458" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2581818" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ceo.php">
+    <entry file="file://$PROJECT_DIR$/ceo2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="106" column="32" lean-forward="false" selection-start-line="106" selection-start-column="29" selection-end-line="106" selection-end-column="32" />
-          <folding />
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.php">
+    <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="3390">
+          <caret line="226" column="22" selection-start-line="226" selection-start-column="22" selection-end-line="226" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3795">
+          <caret line="253" column="65" selection-start-line="253" selection-start-column="65" selection-end-line="253" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ceo.php" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="68" column="6" selection-start-line="68" selection-start-column="6" selection-end-line="77" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ceo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ceo2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conn2.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="99" column="13" selection-start-line="99" selection-start-column="13" selection-end-line="99" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="99" column="13" selection-start-line="99" selection-start-column="13" selection-end-line="99" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cooperate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cooperate2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="77" column="37" selection-start-line="77" selection-start-column="37" selection-end-line="77" selection-end-column="37" />
         </state>
       </provider>
     </entry>

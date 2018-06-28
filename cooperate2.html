@@ -1,64 +1,3 @@
-<?php
-require_once('conn.php');
-
-	$nam = "";
-	$mail ="";
-	$phon = "";
-	$comm ="";
-	$date = date('F j, Y');
-	$time = date('g:i a');
-	$error="";
-	$success="";
-	
-	
-if($_SERVER['REQUEST_METHOD'] =="POST")
-{
-	$nam = $_POST['name'];
-	$mail =$_POST['email'];
-	$phon = $_POST['phone'];
-	$comm = $_POST['comment'];
-	$mail_to ='y.ayobami@yahoo.com'.', ';
-	$mail_to .='mayes777@yahoo.com';
-	$subject = "Message from ".$nam . " lumiaconsult.com" ;
-	$headers ='Content-type: text/html; charset=iso-8859-1' . '\r\n';
-	$headers .='MIME-Version: 1.0' . '\r\n';
-	if($nam ==""|| $mail=="" || $phon=="" || $comm=="")
-	{
-		$error=1;
-		//exit();
-	}
-	
-	$sql = "INSERT INTO contact (nam, email, phone, comment, date, time) VALUES('$nam','$mail','$phon','$comm','$date','$time')";
-	
-	
-	if($error==1 )
-	{ 
-		$qry="";
-		$sql="";
-		$error=1;
-		//echo "Unable to submit".mysql_error();
-	}
-	else
-	{
-		$qry = mysql_query($sql,$conn);
-		$success = "<div style='color:#060'>Thanks for contating us. We shall reply you soon</div>";
-		$message = "<html>
-<body>
-<h5 style='border-bottom:2px solid #8A462F; font-weight:700; font-size:17px; color:#8A462F;'>Lumia Consult & Lumia Mayes Construction Company</h5>
-$comm
-<br />
-Message From: $nam;
-<br />
-Phone Number:$phon;
-<br />
-Email: $mail;
-</body>
-</html>";
-mail($mail_to, $subject, $message, $headers);
-}
-
-}
-?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="EN" lang="EN" dir="ltr">
 <head profile="http://gmpg.org/xfn/11">
@@ -89,14 +28,15 @@ mail($mail_to, $subject, $message, $headers);
     </div>
     <div id="topnav">
       <ul>
-        <li><a href="index.html">Home</a></li>
+        <li class="active"><a href="index.html">Home</a></li>
         <li><a href="about.html">About Us</a></li>
         <li><a href="services.html">Our services</a></li>
         <li><a href="experience.html">Our Experiences</a></li>
-        
+
         <li><a href="gallery.html">Gallery</a></li>
-        <li><a href="equipment.php">Plant and Equipment</a></li>
-        <li class="last active"><a href="contact.php">Contact</a></li></ul>
+        <li><a href="equipment.html">Plant and Equipment</a></li>
+        <li class="last"><a href="contact.html">Contact</a></li>
+      </ul>
     </div>
   </div>
 </div>
@@ -105,88 +45,39 @@ mail($mail_to, $subject, $message, $headers);
   <div id="container" class="clear">
     <!-- ####################################################################################################### -->
     <div id="content">
-      <h1>Contact Us</h1>
-     <?php 
-	 if($error ==1)
-	 {
-		 echo "<div style='color:#F00'>All field must be filled</div>";
-	 }
-	 if($success)
-	 {
-		 echo $success;
-	 } 
-	 
-	  ?>
+      <h1>Cooperate tent</h1>
+      
 
-       <div id="respond">
-        <form action="<?php $_SERVER['PHP_SELF'] ?>" method="post">
-          <p>
-            <input type="text" name="name" id="name" value="" size="22" />
-            <label for="name"><small>Name (required)</small></label>
-          </p>
-          <p>
-            <input type="text" name="email" id="email" value="" size="22" />
-            <label for="email"><small>Mail (required)</small></label>
-          </p>
-          
-          <p>
-            <input type="text" name="phone" id="email" value="" size="22" />
-            <label for="email"><small>Phone Number (required)</small></label>
-          </p>
-          
-          <p>
-            <textarea name="comment" id="comment" cols="100%" rows="10"></textarea>
-            <label for="comment" style="display:none;"><small>Comment (required)</small></label>
-          </p>
-          <p>
-            <input name="submit" type="submit" id="submit" value="Submit Form" />
-            &nbsp;
-            <input name="reset" type="reset" id="reset" tabindex="5" value="Reset Form" />
-          </p>
-        </form>
+      <div id="respond">
+        <p align=""><strong>Lumia -  mayes construction company limited</strong> was born by drive and passion for excellence in the belief that success  in our focal market depends on Total professionalism Modern Technology  Creativeness and Ethusiasm.</p>
+        <p>With suitable technology and right professionalism, a dynamic  organisation properly focused management and supervision, the company can chose  the most suitable technology.</p>
       </div>
     </div>
     <div id="column">
-      <div id="featured">
+      <div class="subnav">
+        <h2>Most Popular Links</h2>
         <ul>
-          <li>
-               
-            
-             <div class="footbox" style="width:270px">
-      <h2>How To Find Us</h2>
-      <address>
-      
-      <h3>Abuja</h3>
-       <p style="margin-bottom:10px; margin-top:-7px">Suite 38, Harmonic Plaza,Mike Aighbe,Off Obafemi Awolowo way, Jabi, Abuja.
-      </p>
-      <h4>Ibadan</h4>
-      <p style="margin-bottom:10px; margin-top:-7px">Suite 4, Al-Barakan Plaza, Favous Bodija Ibadan
-     </p>
-      <h5 style="width:auto">Lagos</h5>
-       <p style="margin-bottom:10px; margin-top:-7px">6, Amore Off Toyin Street, Ikeja Lagos.</p>
-      </address>
-      <address>
-      
-      <h6>Phone Numbers</h6>
-      
-           Tel: 08037136696
-      <br style="margin-bottom:5px !important"/>
-      Tel: 08072397483
-      <br />
-      Email: <a href="#">mayes777@yahoo.com</a>
-      </address>
-    </div>
-            
-            
-            
+          <li><a href="cooperate.html">Cooperate Tent</a></li>
+          <li><a href="about.html">About Us</a>
+            <ul>
+              <li><a href="#">Our Client</a></li>
+              <li><a href="services.html">Our Service</a></li>
+            </ul>
           </li>
+          <li><a href="ostructure2.html">Organization Structure</a>
+            <ul>
+              <li><a href="#"> Portfolio</a></li>
+              <li><a href="hse.htm">Policies on Safety</a>
+                <ul>
+                  <li><a href="keystaff.html">Organogram</a></li>
+                  <li><a href="Lumia - mayes construction company limited Latest Profile.pdf">Downlaod Company Profile</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li><a href="keystaff2.html">Key Staffs</a></li>
         </ul>
-        
-       
-        
-        
       </div>
-      
     </div>
     <!-- ####################################################################################################### -->
   </div>
@@ -210,10 +101,10 @@ mail($mail_to, $subject, $message, $headers);
     <div class="footbox" style="width:280px">
       <h2>How To Find Us</h2>
       <address>
-     Suite 38, Harmonic Plaza,Mike Aighbe,Off Obafemi Awolowo way, Jabi, Abuja.<br />
+      Suite B16, Wuse Shopping Plaza, Zone 5, Wuse  Abuja<br />
       Suite 4, Al-Barakan Plaza, Favous Bodija Ibadan
       <br />
-      6, Amore Off Toyin Street, Ikeja Lagos.
+      10, Amore Off Toyin Street, Ikeja Lagos.
       </address>
       <address>
       
