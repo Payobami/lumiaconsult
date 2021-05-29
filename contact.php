@@ -1,5 +1,5 @@
-<!--<?php
-require_once('conn.php');
+<?php
+//require_once('conn.php');
 
 	$nam = "";
 	$mail ="";
@@ -18,7 +18,7 @@ if($_SERVER['REQUEST_METHOD'] =="POST")
 	$phon = $_POST['phone'];
 	$comm = $_POST['comment'];
 	$mail_to ='y.ayobami@yahoo.com'.', ';
-	$mail_to .='mayes777@yahoo.com';
+	//$mail_to .='mayes777@yahoo.com';
 	$subject = "Message from ".$nam . " lumiaconsult.com" ;
 	$headers ='Content-type: text/html; charset=iso-8859-1' . '\r\n';
 	$headers .='MIME-Version: 1.0' . '\r\n';
@@ -28,7 +28,7 @@ if($_SERVER['REQUEST_METHOD'] =="POST")
 		//exit();
 	}
 	
-	$sql = "INSERT INTO contact (nam, email, phone, comment, date, time) VALUES('$nam','$mail','$phon','$comm','$date','$time')";
+	//$sql = "INSERT INTO contact (nam, email, phone, comment, date, time) VALUES('$nam','$mail','$phon','$comm','$date','$time')";
 	
 	
 	if($error==1 )
@@ -40,7 +40,7 @@ if($_SERVER['REQUEST_METHOD'] =="POST")
 	}
 	else
 	{
-		$qry = mysql_query($sql,$conn);
+		//$qry = mysql_query($sql,$conn);
 		$success = "<div style='color:#060'>Thanks for contating us. We shall reply you soon</div>";
 		$message = "<html>
 <body>
@@ -58,7 +58,7 @@ mail($mail_to, $subject, $message, $headers);
 }
 
 }
-?>-->
+?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="EN" lang="EN" dir="ltr">
 <head profile="http://gmpg.org/xfn/11">
